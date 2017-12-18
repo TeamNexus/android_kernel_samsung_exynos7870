@@ -48,3 +48,4 @@ obj-$(CONFIG_CRYPTO_SKEIN)	+= skein/
 obj-$(CONFIG_UNISYSSPAR)	+= unisys/
 obj-$(CONFIG_SEC_EXT)       += samsung/
 obj-$(CONFIG_VNSWAP)		+= vnswap/
+obj-$(CONFIG_QCACLD)             += qcald-2.0/
